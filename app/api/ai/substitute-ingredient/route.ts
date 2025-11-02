@@ -101,7 +101,7 @@ Suggeriscimi alternative adatte a questa ricetta.`
       if (block.type === 'text') {
         suggestions = block.text
       } else if (block.type === 'tool_use' && block.name === 'provide_substitution_options') {
-        substitutionOptions = block.input.substitutions
+        substitutionOptions = (block.input as any).substitutions
       }
     }
 
