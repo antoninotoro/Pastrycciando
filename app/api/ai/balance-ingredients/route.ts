@@ -94,7 +94,7 @@ Analizza il bilanciamento e suggerisci modifiche.`,
       if (block.type === 'text') {
         suggestions = block.text
       } else if (block.type === 'tool_use' && block.name === 'provide_modified_ingredients') {
-        modifiedIngredients = block.input.modified_ingredients
+        modifiedIngredients = (block.input as any).modified_ingredients
       }
     }
 
