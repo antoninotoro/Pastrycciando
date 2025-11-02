@@ -1,0 +1,128 @@
+[
+  {
+    "nome": "Torta al Cioccolato",
+    "categoria": "Torte",
+    "ingredienti": [
+      {
+        "nome": "Farina 00",
+        "quantita": 200,
+        "unita": "g",
+        "percentuale": 100
+      },
+      {
+        "nome": "Zucchero",
+        "quantita": 180,
+        "unita": "g",
+        "percentuale": 90
+      },
+      {
+        "nome": "Cacao Amaro",
+        "quantita": 40,
+        "unita": "g",
+        "percentuale": 20
+      },
+      {
+        "nome": "Uova",
+        "quantita": 3,
+        "unita": "pezzi",
+        "percentuale": 50
+      },
+      {
+        "nome": "Burro",
+        "quantita": 100,
+        "unita": "g",
+        "percentuale": 50
+      },
+      {
+        "nome": "Latte",
+        "quantita": 100,
+        "unita": "ml",
+        "percentuale": 50
+      },
+      {
+        "nome": "Lievito per dolci",
+        "quantita": 8,
+        "unita": "g",
+        "percentuale": 4
+      }
+    ],
+    "procedimento": "1. Preriscalda il forno a 180°C.\n2. Mescola farina, cacao e lievito in una ciotola.\n3. In un'altra ciotola, sbatti le uova con lo zucchero fino a ottenere un composto spumoso.\n4. Sciogli il burro e lascialo intiepidire.\n5. Aggiungi il burro fuso e il latte al composto di uova.\n6. Incorpora gradualmente gli ingredienti secchi.\n7. Versa in una teglia imburrata e infarinata.\n8. Cuoci per 35-40 minuti.\n9. Lascia raffreddare prima di servire.",
+    "consigli": "Per verificare la cottura, inserisci uno stecchino al centro: deve uscire leggermente umido ma non bagnato. Puoi aggiungere gocce di cioccolato all'impasto per renderla ancora più golosa. Si conserva per 3-4 giorni in un contenitore ermetico."
+  },
+  {
+    "nome": "Crostate alla Marmellata",
+    "categoria": "Crostate",
+    "ingredienti": [
+      {
+        "nome": "Pasta Frolla",
+        "quantita": 500,
+        "unita": "g",
+        "percentuale": 100
+      },
+      {
+        "nome": "Marmellata di Albicocche",
+        "quantita": 300,
+        "unita": "g",
+        "percentuale": 60
+      }
+    ],
+    "procedimento": "1. Stendi 2/3 della pasta frolla in una teglia.\n2. Spalma uniformemente la marmellata.\n3. Con la pasta rimanente crea delle strisce per decorare la superficie.\n4. Cuoci a 180°C per 30-35 minuti fino a doratura.\n5. Lascia raffreddare completamente prima di tagliare.",
+    "consigli": "Usa una marmellata di buona qualità con alta percentuale di frutta. Puoi sostituire con altre marmellate o confetture a piacere. La crostata si conserva per 4-5 giorni."
+  },
+  {
+    "nome": "Muffin ai Mirtilli",
+    "categoria": "Muffin",
+    "ingredienti": [
+      {
+        "nome": "Farina 00",
+        "quantita": 250,
+        "unita": "g",
+        "percentuale": 100
+      },
+      {
+        "nome": "Zucchero",
+        "quantita": 150,
+        "unita": "g",
+        "percentuale": 60
+      },
+      {
+        "nome": "Latte",
+        "quantita": 120,
+        "unita": "ml",
+        "percentuale": 48
+      },
+      {
+        "nome": "Olio di Semi",
+        "quantita": 80,
+        "unita": "ml",
+        "percentuale": 32
+      },
+      {
+        "nome": "Uova",
+        "quantita": 2,
+        "unita": "pezzi",
+        "percentuale": 40
+      },
+      {
+        "nome": "Mirtilli",
+        "quantita": 150,
+        "unita": "g",
+        "percentuale": 60
+      },
+      {
+        "nome": "Lievito per dolci",
+        "quantita": 8,
+        "unita": "g",
+        "percentuale": 3
+      },
+      {
+        "nome": "Sale",
+        "quantita": 1,
+        "unita": "pizzico",
+        "percentuale": 0.5
+      }
+    ],
+    "procedimento": "1. Preriscalda il forno a 190°C e prepara 12 pirottini.\n2. Mescola farina, lievito e sale.\n3. In un'altra ciotola, sbatti uova, zucchero, latte e olio.\n4. Incorpora gli ingredienti secchi senza lavorare troppo.\n5. Aggiungi delicatamente i mirtilli.\n6. Riempi i pirottini per 2/3.\n7. Cuoci per 20-25 minuti fino a doratura.\n8. Lascia raffreddare su una griglia.",
+    "consigli": "Non lavorare troppo l'impasto per evitare muffin gommosi. Puoi usare mirtilli freschi o surgelati (senza scongelare). Spolverizza con zucchero a velo prima di servire. Si conservano per 2-3 giorni in contenitore ermetico."
+  }
+]
